@@ -1,0 +1,11 @@
+test variable name(
+    a
+    a2024
+    if
+    get-int
+    print
+    2024a
+    a-a
+    >abc
+    234+
+)
